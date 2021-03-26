@@ -1,0 +1,1 @@
+INSERT INTO usavingsFlavorPrices value (spot) values (Standard_DS14)_v4)))
